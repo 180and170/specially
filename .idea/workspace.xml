@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f83bc119-b3dd-4215-8030-ca7ec0b2e240" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/overturnCards.html" beforeDir="false" afterPath="$PROJECT_DIR$/overturnCards.html" afterDir="false" />
-    </list>
+    <list default="true" id="f83bc119-b3dd-4215-8030-ca7ec0b2e240" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/overturnCards.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+            <state relative-caret-position="202">
+              <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
             </state>
           </provider>
         </entry>
@@ -104,16 +102,15 @@
       <workItem from="1561087242199" duration="34000" />
       <workItem from="1561087289308" duration="103000" />
       <workItem from="1561087405177" duration="2148000" />
-      <workItem from="1561094690470" duration="161000" />
+      <workItem from="1561094690470" duration="629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7820000" />
+    <option name="totallyTimeSpent" value="8288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="258" y="-1080" width="1061" height="1059" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4633431" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -127,7 +124,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29837838" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.66702706" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -156,8 +153,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/overturnCards.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="127" column="4" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="4" />
+        <state relative-caret-position="202">
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
         </state>
       </provider>
     </entry>
