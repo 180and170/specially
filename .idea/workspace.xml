@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f83bc119-b3dd-4215-8030-ca7ec0b2e240" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="f83bc119-b3dd-4215-8030-ca7ec0b2e240" name="Default Changelist" comment="" />
+>>>>>>> 239c07cbf0de76d23bc223992427a1894d33c755
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,7 +28,11 @@
         <entry file="file://$PROJECT_DIR$/overturnCards.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="202">
+<<<<<<< HEAD
               <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+=======
+              <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+>>>>>>> 239c07cbf0de76d23bc223992427a1894d33c755
             </state>
           </provider>
         </entry>
@@ -104,12 +112,16 @@
       <workItem from="1561087242199" duration="34000" />
       <workItem from="1561087289308" duration="103000" />
       <workItem from="1561087405177" duration="2148000" />
-      <workItem from="1561094690470" duration="161000" />
+      <workItem from="1561094690470" duration="629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="8137000" />
+=======
+    <option name="totallyTimeSpent" value="8288000" />
+>>>>>>> 239c07cbf0de76d23bc223992427a1894d33c755
   </component>
   <component name="ToolWindowManager">
     <frame x="258" y="-1080" width="1061" height="1059" extended-state="0" />
@@ -154,7 +166,11 @@
     <entry file="file://$PROJECT_DIR$/overturnCards.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
+<<<<<<< HEAD
           <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+=======
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+>>>>>>> 239c07cbf0de76d23bc223992427a1894d33c755
         </state>
       </provider>
     </entry>
